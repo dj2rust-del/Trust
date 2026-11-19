@@ -1,0 +1,6 @@
+{
+  "name": "DJ TRUST MEGA",
+  "description": "High-speed UDP VPN client with custom UDP server generator, global country nodes, split tunneling, kill switch, custom DNS, and live tunnel diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
